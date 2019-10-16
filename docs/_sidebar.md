@@ -1,5 +1,3 @@
-# Guide
-
 - [Home](/)
 - [Angular](Angular.md)
 - [AR/VR](Ar_vr.md)
