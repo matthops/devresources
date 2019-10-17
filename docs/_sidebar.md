@@ -20,5 +20,6 @@
 - [SQL](SQL.md)
 - [Testing](Testing.md)
 - [Text Editor Extensions](Text_editor_extensions.md)
+- [Tutorial Sites](Tutorial_sites.md)
 - [TypeScript](Typescript.md)
 - [Vue.js](Vue.md)
