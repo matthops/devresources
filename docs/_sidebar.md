@@ -9,7 +9,7 @@
 - [Git](Git.md)
 - [GraphQL](GraphQL.md)
 - [Hosting](Hosting.md)
-- [HTML/CSS](hypertextcss.md)
+- [HTML/CSS](Html_css.md)
 - [JavaScript](Javascript.md)
 - [Job](Job.md)
 - [Node.js](Node.md)
